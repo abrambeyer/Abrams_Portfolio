@@ -24,7 +24,7 @@
 - **Excel**
   - Provides a simple way to record the data and mass insert into Access.  Walking the field with a tablet with Excel installed.  Return to the local machine and mass insert new data points.  
 
-<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_orchard_tree_variety_layout1.PNG" width=300>
+<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_orchard_tree_variety_layout1.PNG" width=300> | <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_chestnut_orchards_planning_dashboard_gif.gif" width=300>
 
 ## Research/Publications/Conference Talks
 <br/>
