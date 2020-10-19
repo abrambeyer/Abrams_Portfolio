@@ -27,6 +27,14 @@
 ![](https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/beyer_orchard_tree_variety_layout1.PNG)
 
 ## Research/Publications/Conference Talks
+<br/>
+## [Conference Presentation:  Vizient Connections Summit 2020](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/vizient_summit_2020)
+- Built an automated python pipeline with selenium to configure and run hundreds of Vizient CDB reports, wrangle and organize excel files, extract data from the excel files and store into SQL Server database
+- Built custom database schema to store the data and query from it
+- Built a series of SQL queries to automatically perform roll-up calculations
+- Built a Tableau dashboard and SSRS scorecards to report out numbers to hospital leadership in an aligned fashion 
+- Created a timely, system-wide inpatient quality composite in order to promote fair system-wide benchmarking against similar hospital cohorts
+![](https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/inpatient_quality_composite_pipeline2.PNG)
 
 ## Tableau Public Dashboards
 
