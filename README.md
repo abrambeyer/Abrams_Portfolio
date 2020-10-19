@@ -9,7 +9,7 @@
 - Results pulled as of 10/18/2020.  However, each time you run the script, it will pull what job listings are currently available.
 - Final vocabulary of 1792 words from 18 distinct analytics-related jobs 
 
-![](https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/cms_job_description_word_cloud.png)
+<img src="https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/cms_job_description_word_cloud.png">
 
 ## [Project 2:  Beyer Chestnut Orchard Project](https://github.com/abrambeyer/Beyer_Chestnut_Orchard_Project)
 ##### My father is a hobby chestnut farmer.  His orchard is in the early development stage.  I built him a suite of tools to help manage his orchard and make the best planning decisions possible about what trees he currently has, which trees are performing the best, how to quickly find and track trees of interest, and other adhoc data questions he may have over the years.  The data is stored in an Access database I designed and built from scratch.  Adhoc data questions are answered mainly with adhoc R scripts, RMarkdown reports, and a Tableau dashboard on Tableau public.
@@ -24,7 +24,7 @@
 - **Excel**
   - Provides a simple way to record the data and mass insert into Access.  Walking the field with a tablet with Excel installed.  Return to the local machine and mass insert new data points.  
 
-![](https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/beyer_orchard_tree_variety_layout1.PNG)
+<img src="https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/beyer_orchard_tree_variety_layout1.PNG">
 
 ## Research/Publications/Conference Talks
 <br/>
@@ -35,7 +35,7 @@
 - Built a Tableau dashboard and SSRS scorecards to report out numbers to hospital leadership in an aligned fashion 
 - Created a timely, system-wide inpatient quality composite in order to promote fair system-wide benchmarking against similar hospital cohorts  
 
-![](https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/inpatient_quality_composite_pipeline2.PNG)
+<img src="https://github.com/abrambeyer/Abrams_Portfolio/blob/main/images/inpatient_quality_composite_pipeline2.PNG">
 
 ## Tableau Public Dashboards
 
