@@ -29,6 +29,12 @@
 
 <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_orchard_tree_variety_layout1.PNG" width=300> | <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_chestnut_orchards_planning_dashboard_gif.gif" width=300>
 
+### [Project 3:  Outlook Invite Sender](https://github.com/abrambeyer/outlook_calendar_inviter)
+- Each month, our team organizes a series of tasks by sending out monthly calendar invites via Outlook.  However, the process of updating the dates and sending the invites used to require a manager to manually send more than 50 calendar invites each month.  This took too much of their time.
+- Built a vba script that loops over an Excel spreadsheet and sends Outlook meeting invites in seconds.
+
+<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/excel_image.PNG" width=300>
+
 <br/>
 
 ## Research/Publications/Conference Talks
