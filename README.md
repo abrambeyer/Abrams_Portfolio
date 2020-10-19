@@ -74,7 +74,25 @@
 
 <br/>
 
+### [Tableau Project 1: H1B Visa Project](https://github.com/abrambeyer/Tableau_Projects/tree/main/h1b_visa_project_2015_2019)
+- **Tableau Dashboard 1** 
+  - Built first Tableau dashboard using pre-wrangled data from [Kaggle](www.kaggle.com).  [Data Source](https://www.kaggle.com/nsharan/h-1b-visa).  Inspired by Sharan Naribole's initial data submission.
+- **Tableau Dashboard 2**
+  - *Data Collection*:  Updated the Kaggle dataset to new time period.  The original dataset was old (2011-2015).  I wrote my own R code to perform the same data collection for the time period 2015-2019.  This involved heavily updating the original R code from kaggle in order to wrangle the new time period.  [Data Source](https://www.dol.gov/agencies/eta/foreign-labor/performance)
+  - *Data cleaning*:  Collected the data, joined multiple data files, filtered and engineered features using dplyr syntax.  Tidying the dataset included probabilistic correction of location data.
+  - New dashboard design on Tableau Public for the new dataset.  
 
+<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/2015_2019_demo_gif.gif" width=300> | <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/2011_2015_demo_gif.gif" width=300>  
 
+### [Tableau Project 2: Beyer Chestnut Orchard Project Planning Dashboard](https://github.com/abrambeyer/Tableau_Projects/tree/main/beyer_chestnut%20_orchards_planning_dashboard)
+- ***Also displayed above***
+- I built a high-level overview dashboard to accompany a suite of tools for my father's hobby chestnut farm.  The dashboard gives my father static view insight into avg. cost per variety, death rates, yearly plantings and deaths so he can better plan for next years and understand how many trees he should be replacing and which variety will do best.  Since this is a static view, there are no filters.  As new data is added to the database, it will update the "current" overview of the orchard.  This dashboard will likely grow as the database grows.  I plan to add information about yearly crop yields and forecasting.
+
+<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_chestnut_orchards_planning_dashboard_gif.gif" width=300> 
+
+### [Tableau Project 3: Hospital Patient Movement Viz](https://github.com/abrambeyer/Tableau_Projects/tree/main/hospital_patient_movement_viz)
+- This dashboard project was first motivated by a need to potentially track *where* patients go throughout their stay in the hospital.  To give operations managers a high level view of tracking items such as patient satisfaction and certain patient conditions.  The hope is to give operations leaders an idea of certain pathway trends that lead to patient satisfaction/disatisfaction.  Tracking patient conditions has become increasingly important with the COVID pandemic as patients sometimes test positive after moving to several units in the hospital and the need to quarantine all providers who come in contact with those patients.  
+
+<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/patient_movement_viz.gif" width=300> 
 
 
