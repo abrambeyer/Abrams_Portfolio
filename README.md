@@ -1,9 +1,12 @@
 # Welcome to Abram's Portfolio.  
 
-## Personal Programming/Data Science Projects
 <br/>
 
-## [Project 1:  Consumers Energy Job Text Analysis](https://github.com/abrambeyer/consumers_energy_job_text_analysis)
+## Personal Programming/Data Science Projects
+
+<br/>
+
+### [Project 1:  Consumers Energy Job Text Analysis](https://github.com/abrambeyer/consumers_energy_job_text_analysis)
 - Open the [Consumers Energy Careers Website](https://www.consumersenergy.com/company/careers)
 - Use Selenium and BeautifulSoup to open each job listing page, open job listings and scrape the job description text from the page.
 - Results pulled as of 10/18/2020.  However, each time you run the script, it will pull what job listings are currently available.
@@ -11,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/cms_job_description_word_cloud.png" width=300>
 
-## [Project 2:  Beyer Chestnut Orchard Project](https://github.com/abrambeyer/Beyer_Chestnut_Orchard_Project)
+### [Project 2:  Beyer Chestnut Orchard Project](https://github.com/abrambeyer/Beyer_Chestnut_Orchard_Project)
 ##### My father is a hobby chestnut farmer.  His orchard is in the early development stage.  I built him a suite of tools to help manage his orchard and make the best planning decisions possible about what trees he currently has, which trees are performing the best, how to quickly find and track trees of interest, and other adhoc data questions he may have over the years.  The data is stored in an Access database I designed and built from scratch.  Adhoc data questions are answered mainly with adhoc R scripts, RMarkdown reports, and a Tableau dashboard on Tableau public.
 
 - **Access Database** 
@@ -32,7 +35,7 @@
 
 <br/>
 
-## [Conference Presentation:  Vizient Connections Summit 2020](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/vizient_summit_2020)
+### [Conference Presentation:  Vizient Connections Summit 2020](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/vizient_summit_2020)
 - ***Presentation Title: Operationalizing the Vizient Quality and Accountability Study to Unify a Health System’s Performance*** 
 - Built an automated python pipeline with selenium to configure and run hundreds of Vizient CDB reports, wrangle and organize excel files, extract data from the excel files and store into SQL Server database
 - Built custom database schema to store the data and query from it
@@ -42,13 +45,13 @@
 
 <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/inpatient_quality_composite_pipeline2.PNG" width=300>
 
-## [Publication: Journal of Acute Care Physical Therapy: April 2020](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/improvement_of_physical_and_occupational_therapy_referral_process)
+### [Publication: Journal of Acute Care Physical Therapy: April 2020](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/improvement_of_physical_and_occupational_therapy_referral_process)
 - ***Article Title: Improvement of Physical and Occupational Therapy Referral Process to Reduce Unskilled Consults***
 - Baseline data collected for 9 months showed that physical (PT) and occupational therapy (OT) services were consulted 14.5% of the time for unskilled therapy needs. The goal of this performance improvement project was to identify whether acute care physical and occupational therapists can reduce unskilled consults using a multidisciplinary education intervention.
 
 <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/Percentage%20of%20Unskilled%20PT_OT%20Consults%20from%20May%2017%20July%2018.jpeg" width=300>
 
-## [Conference Poster: ACRM (American Congress of Rehabilitation Medicine) 2019 Annual Conference](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/using_data_science_to_manage_an_acute_care_rehabilitation_department)
+### [Conference Poster: ACRM (American Congress of Rehabilitation Medicine) 2019 Annual Conference](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/using_data_science_to_manage_an_acute_care_rehabilitation_department)
 - ***Poster Title: Using Data Science To Manage An Acute Care Rehabilitation Department***
 - Established long-term partnership with the Physical & Occupational Therapy Departments to identify strategies to collaborate and improve outcomes.
 - Key pain points were demonstrating and advocating the value of the department, better understanding of productivity, and reduced unskilled consults (someone sent to PT/OT when unable or unready for treatment causing wasted time and money)
@@ -57,7 +60,21 @@
  
  <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/using%20data%20science%20to%20manage%20an%20acute%20care%20rehabilitation%20department%20acrm%20poster.png" width=300>
 
+### [Research:  CityText Project; Dr. Eli Brown; DePaul University](https://github.com/abrambeyer/CityTextProject)
+  - Research project with Dr. Eli Brown (DePaul Unversity)
+  - Use Python to collect data from various social media APIs:  Twitter, EveryBlock (Nextdoor.com),Chicago Crime Open Data,Facebook,Reddit
+  - For Twitter API, used QGIS to generate centroid and area of each Chicago neighborhood in order to tag tweet with approximate neighborhood source
+  - I built a web page using HTML/CSS, javascript and D3.js to visualize Chicago social media data by neighborhood.  Visualizations include a Word Cloud, Suffix Trees, Bar charts.
+  - Built a Flask server to serve up the data from MongoDB
+  - (images unavailable)
+
+<br/>
 
 ## Tableau Public Dashboards
+
+<br/>
+
+
+
 
 
