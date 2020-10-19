@@ -6,6 +6,7 @@
 - Open the [Consumers Energy Careers Website](https://www.consumersenergy.com/company/careers)
 - Use Selenium and BeautifulSoup to open each job listing page, open job listings and scrape the job description text from the page.
 - Results pulled as of 10/18/2020.  However, each time you run the script, it will pull what job listings are currently available.
+- Final vocabulary of 1792 words from 18 distinct analytics-related jobs 
 
 ## [Project 2:  Beyer Chestnut Orchard Project](https://github.com/abrambeyer/Beyer_Chestnut_Orchard_Project)
 ##### My father is a hobby chestnut farmer.  His orchard is in the early development stage.  I built him a suite of tools to help manage his orchard and make the best planning decisions possible about what trees he currently has, which trees are performing the best, how to quickly find and track trees of interest, and other adhoc data questions he may have over the years.  The data is stored in an Access database I designed and built from scratch.  Adhoc data questions are answered mainly with adhoc R scripts, RMarkdown reports, and a Tableau dashboard on Tableau public.
