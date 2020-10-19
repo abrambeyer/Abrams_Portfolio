@@ -25,9 +25,13 @@
   - Provides a simple way to record the data and mass insert into Access.  Walking the field with a tablet with Excel installed.  Return to the local machine and mass insert new data points.  
 
 <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_orchard_tree_variety_layout1.PNG" width=300> | <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_chestnut_orchards_planning_dashboard_gif.gif" width=300>
+
 <br/>
+
 ## Research/Publications/Conference Talks
+
 <br/>
+
 ## [Conference Presentation:  Vizient Connections Summit 2020](https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/tree/main/vizient_summit_2020)
 - ***Presentation Title: Operationalizing the Vizient Quality and Accountability Study to Unify a Health System’s Performance*** 
 - Built an automated python pipeline with selenium to configure and run hundreds of Vizient CDB reports, wrangle and organize excel files, extract data from the excel files and store into SQL Server database
