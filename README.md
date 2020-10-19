@@ -1,6 +1,7 @@
 # Welcome to Abram's Portfolio.  
 
 ## Personal Programming/Data Science Projects
+<br/>
 
 ## [Project 1:  Consumers Energy Job Text Analysis](https://github.com/abrambeyer/consumers_energy_job_text_analysis)
 - Open the [Consumers Energy Careers Website](https://www.consumersenergy.com/company/careers)
