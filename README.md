@@ -6,15 +6,7 @@
 
 <br/>
 
-### [Project 1:  Consumers Energy Job Text Analysis](https://github.com/abrambeyer/consumers_energy_job_text_analysis)
-- Open the [Consumers Energy Careers Website](https://www.consumersenergy.com/company/careers)
-- Use Selenium and BeautifulSoup to open each job listing page, open job listings and scrape the job description text from the page.
-- Results pulled as of 10/18/2020.  However, each time you run the script, it will pull what job listings are currently available.
-- Final vocabulary of 1792 words from 18 distinct analytics-related jobs 
-
-<img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/cms_job_description_word_cloud.png" width=300>
-
-### [Project 2:  Beyer Chestnut Orchard Project](https://github.com/abrambeyer/Beyer_Chestnut_Orchard_Project)
+### [Project 1:  Beyer Chestnut Orchard Project](https://github.com/abrambeyer/Beyer_Chestnut_Orchard_Project)
 ##### My father is a hobby chestnut farmer.  His orchard is in the early development stage.  I built him a suite of tools to help manage his orchard and make the best planning decisions possible about what trees he currently has, which trees are performing the best, how to quickly find and track trees of interest, and other adhoc data questions he may have over the years.  The data is stored in an Access database I designed and built from scratch.  Adhoc data questions are answered mainly with adhoc R scripts, RMarkdown reports, and a Tableau dashboard on Tableau public.
 
 - **Access Database** 
@@ -29,7 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_orchard_tree_variety_layout1.PNG" width=300> | <img src="https://raw.githubusercontent.com/abrambeyer/Abrams_Portfolio/main/images/beyer_chestnut_orchards_planning_dashboard_gif.gif" width=300>
 
-### [Project 3:  Outlook Invite Sender](https://github.com/abrambeyer/outlook_calendar_inviter)
+### [Project 2:  Outlook Invite Sender](https://github.com/abrambeyer/outlook_calendar_inviter)
 - Each month, our team organizes a series of tasks by sending out monthly calendar invites via Outlook.  However, the process of updating the dates and sending the invites used to require a manager to manually send more than 50 calendar invites each month.  This took too much of their time.
 - Built a vba script that loops over an Excel spreadsheet and sends Outlook meeting invites in seconds.
 
